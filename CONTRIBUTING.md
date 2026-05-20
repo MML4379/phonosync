@@ -1,0 +1,1 @@
+By contributing to Phonosync, you grand the project maintainer non-exclusive, worldwide, royalty-free copyright ownership of your contribution, including the right to re-license the code under commercial or alternative open-source terms.
